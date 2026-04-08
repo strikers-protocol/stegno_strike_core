@@ -1,0 +1,1 @@
+# stegno_strike_core
